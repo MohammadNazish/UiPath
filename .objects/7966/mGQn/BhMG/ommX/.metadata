@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Download Client and Support",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "ommXeWK8SESgPRM72iw25Q",
+  "Reference": "XKZTeSTmYEuM2dYfj2SXeA/ommXeWK8SESgPRM72iw25Q",
+  "ParentRef": "XKZTeSTmYEuM2dYfj2SXeA/BhMGAqXnYkeDhBA7JJhyhQ",
+  "Created": "2025-07-05T06:57:58.710987Z",
+  "Updated": "2025-07-05T06:57:58.710987Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Use browser to navigate to Download Client and Support",
+  "Type": "App",
+  "Id": "79662EAXikmLpls4W6vunw",
+  "Reference": "XKZTeSTmYEuM2dYfj2SXeA/79662EAXikmLpls4W6vunw",
+  "Created": "2025-07-05T06:57:57.813718Z",
+  "Updated": "2025-07-05T06:57:57.813718Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
